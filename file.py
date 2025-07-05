@@ -5,4 +5,14 @@ file=open('devops.txt','r')
 # w == write mode
 # a == append mode
 content =file.read()
-print (content)
+#print (content)
+line =file.readline()
+print (line)
+
+lines=file.readlines()
+print (lines)
+
+file =open ('devops.txt','a')
+file.write('\n jenkins is a continuous integration tool')
+content =file.read()
+file.close()
