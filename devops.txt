@@ -1,0 +1,4 @@
+What is Devops?
+Devops is the combination of cultural philosophies, pratices and tools that increases an organization's ability to deliver application and services at high velocity . 
+IT emphasizes better collaboration and efficiences so team can innovate faster and deliver high value to business and customers.
+
